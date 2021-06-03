@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and Parliament and his councel and teachers and to every individual person, superiour and inferiour, throughout the English nation that have a hand against the innocent people of God called Quakers, one visitation and warning more from the Lord unto you.</title>
+            <author>Bayly, William, d. 1675.</author>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17577</idno><idno type="EEBO-CITATION">8623319</idno>
+  <idno type="VID">204285</idno>
+  <idno type="EEBO-PROQUEST">2248498213</idno>
+  
+            <idno type="STC">Wing B1526</idno>
+            <idno type="OCLC">08623319</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17577)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1246:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and Parliament and his councel and teachers and to every individual person, superiour and inferiour, throughout the English nation that have a hand against the innocent people of God called Quakers, one visitation and warning more from the Lord unto you.</title>
+                  <author>Bayly, William, d. 1675.</author>
+               </titleStmt>
+               <extent>[1], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Work signed: W.B.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204285:1"/>
+            <pb facs="tcp:204285:2"/>
+            <p>FOR THE KING AND PARLIAMENT, And his <hi>COƲNCEL</hi> and <hi>TEACHERS,</hi> And to every Individual Person, <hi>Superiour</hi> and <hi>Inferiour,</hi> throughout the <hi>English Nation,</hi> that have a <hi>Hand</hi> against the <hi>Innocent People</hi> of <hi>God,</hi> called QUAKERS.</p>
+            <p>One <hi>Visitation</hi> and <hi>Warning</hi> more from the <hi>Lord</hi> unto <hi>You.</hi>
+            </p>
+            <p>Printed in the Year. 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204285:3"/>
+            <pb n="1" facs="tcp:204285:3"/>
+            <head>For the <hi>KING</hi> and <hi>PARLIAMENT,</hi> and his <hi>Counsel,</hi> and <hi>Teachers,</hi> and to every individual per<g ref="char:EOLhyphen"/>son, <hi>Superior</hi> and <hi>Inferiour,</hi> throughout the <hi>English Nation,</hi> that have a <hi>Hand</hi> against the <hi>Innocent people</hi> of <hi>God,</hi> called <hi>Quakers,</hi> one <hi>Visitation</hi> and <hi>Warning</hi> more from the <hi>Lord</hi> unto <hi>You.</hi>
+            </head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>THe God of heaven hath put it into my heart to write a few words unto you, in the fear and dread of his Name, and in the councel of his own Will, concerning the work which ye have taken in hand against him and his people; this is not the end and work for which the Lord God hath permitted you into the places of Government and Rule, in those Nations (nor the way for you to prosper, nor to prolong your daies in the earth) thus to persecute and afflict an innocent and harmless people, who are peaceable, and walk uprightly (towards God and man) therein, endeavouring (in all things) to keep their consciences void of offence, and who have no helper in the earth but the Lord alone, neither is their Kingdom of this world, but they are verily the children and servants of the most high God, whom he hath gathered from amongst men, and from the kindreds of the earth, to be the first fruits unto him, and to the lamb in this age; and we are his and not our own, he hath bought us, and re<g ref="char:EOLhyphen"/>deemed us unto himself, and to him alone have we committed our in<g ref="char:EOLhyphen"/>nocent cause, and he hath undertaken to plead it for us, with all our adversaries, and no weapon formed against us shall ever prosper, but be broken to pieces.</p>
+            <p>Therefore Friends, be awakened and open your eyes, and see what a stir and a do here is in this Nation, to hale and drag up and down a company of tender, innocent, harmless people, men and women, and children from their peaceable meetings, who meet together in the fear and tender love of God, without any evil or bad intent toward any, but have good will and compassion toward all men, even to the worst of our enemies, as the Lord bears us witness, and these are them that are driven as sheep to the slaughter, and thrown into your noysome
+<pb n="2" facs="tcp:204285:4"/>Goals, and Prisons, and houses of Correction, by rude and bruitish peo<g ref="char:EOLhyphen"/>ple (your servants) whom you have set on work by your authority, till many of them have (patiently) suffered till death, whose innocent blood will assuredly be required at your hands, (though they shall not go free of the guilt who have had the least hand in it, without speedy re<g ref="char:EOLhyphen"/>pentance) and thus ye may see and read, how the Disciples of Christ Jesus are as sheep, and lambs in the midst of wolves in this age, and as a lilly among thorns, and all this is only for obeying his commands, and for worshipping the everlasting invisible God in the spirit, and in the truth, according to the Scriptures, the which if ye knew and un<g ref="char:EOLhyphen"/>derstood, you would tremble to think what you have done against them, to cause so many of the little ones which believe in Christ so griev<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>sly to suffer, who said <hi>it were better a m<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>stone were hanged about his neck, and he drowned in the depth of the Sea, that should offend one of these little ones that believe in me;</hi> and as true as Christ Jesus suffered, and rose again, and as God liveth who raised him from the de<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, we are some of those his little ones that believe in him, who (in derision and scorn (in this age) are called <hi>Quakers,</hi> as ye might call <hi>Moses,</hi> the Prophe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Apostles (in dayes past) who did quake and tremble at the presence of the Lord who is the same now as ever he was, though the ungodly know him not, nor his power; And we are of that poor and afflicted people mentioned, <hi>Z<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ph.</hi> 3.12. <hi>Whose trust is only in the Name of the Lord, who will undo all their oppressors at this the return of their captivity,</hi> ver. 19 20.</p>
+            <p>But what shall I say unto you, if ye will not or cannot believe our faithful testimony (or the testimony of God through us) and the inno<g ref="char:EOLhyphen"/>cency of our cause and sufferings, neither will ye believe if one should rise from the dead and declare it unto you, for many tender visita<g ref="char:EOLhyphen"/>tion<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and timely warnings, and gentle reprehentions have you had, from the pure spirit of the Lord God, both from his witness in your own consciences, and from his faithful servants and m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssengers, who have written and declared unto you in his Name and Power in this your day. And as for my part who am one of the least of the thousands of <hi>Israel,</hi> I could willingly have been silent as toward you at this time, but the Lord (whom I serve in my spirit) hath laid it upon me to warn you once more (for whose sakes I have born a burthen) in the true sight and sense of your sad estate, and of the day of thick darknesse, wrath and distress, which is hastening upon you from the Almighty.</p>
+            <p>Wherefore be not proud nor rebellious, but hear, and obey the
+<pb n="3" facs="tcp:204285:4"/>Word of the Lord, for thus saith the Lord God that made heaven and earth, <hi>Let my innocent People alone,</hi> and touch them not any more as ye have done for they are mine, and I have called them, and chosen them, and redeemed them, they are my Jewels which I am making up; they shall shew forth my glory before men to the whole world, I have anointed them, and I will preserve them and deliver them, and crown them with an everlasting salvation: <hi>I will rebuke Kings and Rulers for their sakes, and distress Nations, and disthrone the mighty from their seats that rise up against them, as I have done;</hi> and let my ever<g ref="char:EOLhyphen"/>lasting Gospel have a free passage in these Nations, and do not re<g ref="char:EOLhyphen"/>proach and afflict my servants and messengers so any more, whom I have cho<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en and sent to preach and declare the way or life and salva<g ref="char:EOLhyphen"/>tion to the ends of the earth, but bow your car and your heart unto them and their testimony, that it may be well with you, and prolong your daies, for he that blesseth them shall be blessed and he that curseth them shall be cursed, and every hand shall wither that opposeth them, <hi>as hath been, and shall be, henceforth for ever: I the Lord have spoken it.</hi>
+            </p>
+            <p>But and if you will not hear, but will still persist, and go on as ye have done, to oppresse my heritage, and harmless people, and make war and opposition against my power and truth, and thus set your selves and your Power against me the living God; I will bring you down suddenly to the astonishment of Nations, and I'le cut your day short, and turn your pleasures into howling and lamention, and shame, and contempt, shall cover your memorial as a garment: Thus will I work for the deliverance of my seed, and none shall let it, for the year of my redeemed is come, and the day of vengeance is in my heart, to plead its cause with all flesh.</p>
+            <p>Therefore consider your waies, and see what ye are doing, and what the effect of this your work will be, ye are but men, and the children of men, <hi>who were but as yesterday,</hi> your breath also is in your nostrils, and your life is but a vapour, which will soon vanish away: You labour in the very fire, and bring forth wind, which blows up the flame of that which will consume you, and deprive you of all happiness for ever (O that ye had but hearts to consider it) For the more you strive with the Lord, and oppresse his people, the more will they multiply and grow stronger &amp; stronger, and you shal wax weaker &amp; weaker, and your works shall be your heavy burthen, for life and immortality is risen, and the power of God is stirring in the hearts of thousands, and light under<g ref="char:EOLhyphen"/>standing (the excellent spirit which was in <hi>Daniel</hi>) is breaking forth
+<pb n="4" facs="tcp:204285:5"/>like the lightning (which shines out of the East into the West) in the light of many people, whereby they know its the day of the coming of the Son of man, with power and great glory, that every eye may see him, and they that have pierced him shall mourn bitterly: So your labour is in vain, and your works for the fire, and your striving with your Maker to no purpose, as to effect your end and aim. And of these things you have been often forewarned, and the Lord hath been very long suffering towards you, in sparing you thus long, and suffer<g ref="char:EOLhyphen"/>ing you thus far to act against him and his dear people, and his mercy and forbearance hath been evidently shewed in a large measure unto you, in deferring his heavy judgements thus long, which must have been confest to be just upon you: And will you thus require the Lord, by increasing your tasks of oppression upon his tender innocent people? O unwise and ungrateful generation! hath not God yet shewed you, that you should do justly, and love mercy, and walk humbly? <hi>Mica</hi> 6.8. But are these your fruits and practises, fruits of Mercy or Justice? or if there be any tincture, or spark of love or humility in them? <hi>Let Gods witness (the light) in all your consciences, and in all people, an<g ref="char:EOLhyphen"/>swer;</hi> I tell you plainly, that such fruits and doings among you, that profess your selves Christians, have made the very Name of Christ and Christianity a Proverb of reproach through Nations, and have caused the God of heaven to be blasphemed: and how could it be o<g ref="char:EOLhyphen"/>therwise? seeing you who profess the most knowledge of God, and have talked of converting the Heathen (as some of your leaders have done) are found the least in the life and fruits thereof: but to what would they convert them? to pride, and swearing, and drunkenness, and oppression, and all manner of excesse, and to persecute people for their good conscience? they have no need of that, for some of them have said, they did not use to swear and be drunk, <hi>&amp;c.</hi> till they came among the Christians, and learned of them, they did not do so in their own country, so ye are far from converting them, being out of the life of what ye profess and talk of your selves, that the very Hea<g ref="char:EOLhyphen"/>then or Infidels (as ye call them) doth judge and condemn you (who are making enquiry) concerning these your proceedings against this harmless people, among whom some of them have been kindly entrea<g ref="char:EOLhyphen"/>ted, who visited them at the Lords requiring, though contrary in o<g ref="char:EOLhyphen"/>pinion and Religion, and this doth rise up in judgement against you.</p>
+            <p>But friends, have not you your selves been under Sufferings, and
+<pb n="5" facs="tcp:204285:5"/>some of you been driven into strange Countrys or lands, for your cause (as it was called) Nay did not the King himselfe, once fly for refuge to a Tree, to save himselfe, from his Enemies hands; if not, why are there such representations made of it, in so many places in the Nation. And was not this a great mercy, and deliverance from God, so to obscure and preserve him, from them who pursued him (and many of you also) And are these things forgotten; can mercy be loved, except it be remembered? And do you remember and love his mercies, by doing justly, and walking humbly with him, as he doth require? or do you boast in a vaine glory as if your own arme had done it, or your own strength or desarts had delivered you, if so, then God must needs be forgotten, and his mercies trod under foot, and his visitations and counsels c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st behind your back, and so all that forget God, shall be torn in peeces and there shall be none to deliver them, as it is writ<g ref="char:EOLhyphen"/>ten. <hi>Psal.</hi> 50</p>
+            <p>And were these your sufferings (which you sustained by them, ye opposed) unjust, and unequal, and if ye should say they were, then I say it is much more unjust and very unequall (in the sight of God, and all sober People that fear him) for you, thus to inflict such cruell sufferings (as Imprisoning and stifling up to Death, in your Noysome Gayles and holes, among Theives and Murtherers, And to pronounce sentence of Banishment upon an Innocent, harmles, peacable People, that do not oppose you in the least, with any outward force, neither doth so much as the thoughts of it, lodg within our breasts, as the Lord God knoweth (who have called us to peace) but on the contrary, have sought and do seeke, your wellfare and happiness, both in this world, and in the world to come, which in time shall be manifest to the whole Earth.</p>
+            <p>And if you say your sufferings were unjust and unequall (though you did oppose them and make war against them so long as you could) be<g ref="char:EOLhyphen"/>cause they deprived you of your rights and priviledges, and just li<g ref="char:EOLhyphen"/>berties, and naturall birthrights, &amp;c. which was your due to injoy as being free born of the Nation: Then how much more is it unjust, and unequal, and unrighteous thus to inflict sufferings upon your friends, and oppresse your peacable Neighbours, who are freeborn People of the same Nation, and doth not oppose you, but are tender toward you (as aforesaid) And Subjects to all wholsom just Laws, and tribu<g ref="char:EOLhyphen"/>tary to you, for which causes we ought to have our just liberty, and injoy the <hi>Priveledg</hi> of our <hi>Birthright</hi> which is our due, (so long as we live
+<pb n="6" facs="tcp:204285:6"/>peaceably and harmlesly,) but if it be not a <hi>Previledge</hi> to be pleaded for, then is all your own grounds and reasons, and cause, without a foundation, and you and the whole Nation may be swept away by any that are able to do it, without being charged with injustice or oppression, which is contrary to the just ballance (the Light of Christ) in all Peo<g ref="char:EOLhyphen"/>ples Consciences. And as we are the dearly beloved People of the most high God, who doth blesse us with his presence, and manifest his everlasting love and good will towards us daily, and over<g ref="char:EOLhyphen"/>shadow us with his power and tender mercyes, whom he hath gathered out of the evill wayes, and spirit of this world and all the vanityes thereof unto himselfe, to walk with him who is invisible in the upright, blameless, undefiled Life, in the the midst of a Crooked and preverse Generation; I say considering these things, how greatly and unrighteously doth our sufferings appeare to all sober People, whose eyes are open, and will be more open to discern and favour the bitterness, of that proud envious wrathfull spirit, which thus hath acted you, and deceived you, and its end is numbered by them that have wisdome from above.</p>
+            <p>For Friends, set aside the Reproachfull name of <hi>Quakers</hi> and the other titles of dirision and scorn (which the envious and blood thirsty spirit hath invented to render the people of God odious in all ages) And tell me what ye have justly to charge against this People, (whom you so furio<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sly persue, to the dens and caves of the Earth, to the losse of the lives of so many of them; by which children are made fatherless and tender harted woman, mournfull widdows,) and let it come forth to open view, and declare it abroad (as your Articles against them) to the whole World, and speake the truth, and nothing but the truth, (as you use to tell one another) that all People may rightly know and understand the very ground and most secret cause who do inquire) of these your present proceedings against them, for notice is taken by many, and ere long it must be manifest to all men, as the folly and mad<g ref="char:EOLhyphen"/>ness of <hi>Jannes</hi> and <hi>Jambres</hi> was that withstood <hi>Moses,</hi> for you with<g ref="char:EOLhyphen"/>stand no lesse then him of whom <hi>Moses</hi> wrote, who said I am the Light of of the world, against whom <hi>Saul</hi> was once exceedingly mad, and had thoughts to do very much against that way (which was then as well as now) called heresie till the Light of Jesus (whom he persecuted) met with him, with his letters (or warrants) to hale men and women to Prison (as your servants do) and smote him to the ground, and made him tremble who (from that time (became such a <hi>Quaker,</hi> as you now
+<pb n="7" facs="tcp:204285:6"/>persecute and Imprison till Death, But the light of Jesus Christ, the Son of the living God, will meet with all persecutors, and opressors about Religion, let them be never so mad, or think they ought to do much against that way, they call herefie as some of you have said, who have made a mock at the Light, even publickly, which many tooke notice of, and even marvelled at such blasphemy (in an open court) against the saviour of the world; And there is no other name under Heaven by which men shall be saved, but him who said, I am the Light of the world; who lighteth every man that cometh into the world <hi>Joh.</hi> 8.12. <hi>&amp;</hi> 19.</p>
+            <p>And this is he in whom we have beleived, and of whom we have de<g ref="char:EOLhyphen"/>clared, and must declare and bear testimony as long as we have a being and the world shall know that our testimony is true, and for his name and truth only, do we thus patienly suffer the Contradictions of Sinners, as our brethren did by the zealous Jewes, in ages past, but you are not so zealous for Christs Law, and Commandements, as they were of Moses and the Prophets (which Christ ends and fullfills) who thought it was not lawfull to do good one the Sabbath day, as to heale the sicke) for then would you do to all men, as ye would they should do to you, for his law runs thus, and be you mercifull, &amp;c. And love you your Enemies; and swear not at all, &amp;c as ye may read <hi>Luke</hi> 6. &amp; <hi>Math.</hi> 5 34. &amp;c.</p>
+            <p>But behold, how both <hi>Jews</hi> and <hi>Gentiles,</hi> take notice, and are ashamed and greived, to here and see what a deale of bad works you even on your Sabath day (as some of you call it) and how you prophane the day of your worship, with your cattell, and servants, (which are within your gates,) what Riding, and Runing, and Toyling, in rage and fury, (like mad men) Sweating, and Swearing, and Cursing, and draging, and haling, the Innocent members of Christs body, out of their peaceable meetings, into your layles and holes, on your day of worship, but are your Sacrifices (ye offer at that time) accepted; have ye peace, while these things are acting, in your name, and by your Authority; if ye have peace, and pleasure herein let me tell you, from the Righteous God, you are hardned in your sins against him, and he will break your peace speedily, and turn your pleasure into bitternes and Lamentation; and his Innocent Peoples meetings shall stand, and be increased, And their way shall prosper, and the truth shall spread, and prevaile, and have dominion over all Nations; And their Ene<g ref="char:EOLhyphen"/>mies shall fall, and be confounded, let them strive what they can against
+<pb n="8" facs="tcp:204285:7"/>them, for they are of God (and not by man, or the will of man) and they seeke his glory and not their own, and such as abide faithfull to him, shall triumph over all the Principallities, and powers of the Ru<g ref="char:EOLhyphen"/>lers of the darkness of this world, and make a shew openly of the victo<g ref="char:EOLhyphen"/>ry, over all that do or m<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y oppose them, for their Life is Immortall, And the Lord of heaven and Earth is their strength, who is with them as a mighty Terrible one. Therefore shall their persecutors fall before them.</p>
+            <p>And let me tell you again, that by these your unreasonable, and un<g ref="char:EOLhyphen"/>just dealings, the understanding of thousands are the more opened, and the tender sober part, or principle in them, doth feel the weight, and burthen, of this greivousnes, which you have prescribed, and do so eagerly pursue to the Imprisoning to death so many Innocent persons and freeborn people of this Nation, besides hundreds are liable to the same, (which yet remaine in your prisons) And your unnaturall, cruell sentence of Banishment, to seperate dear and tender husbands, from their dear and tender wives and tender children, and little In<g ref="char:EOLhyphen"/>nocent babes; Oh how do ye rent the bowells of the meek of the Earth, whom God hath blessed, what is become of all your promises of liberty for tender Consciences, Gods curse and vengeance will come upon you. And his Plagues will pursue you to distruction if ye proceed in this worke, And your wives shall be widows, and your children Father<g ref="char:EOLhyphen"/>less, the Lord hath spoken it. If you had the hearts of men, or of flesh, ye would be afraid and blush, at the very thoughts hereof; my heart and foule melts within me, and I am even bowed down (with cryes to God) in my spirit, to think of the hardness of your hearts. God almighty cut short thy worke in Righteousnesse, and shorten the dayes of oppression and cruelty for thine elects sake, which cry night and day unto thee; And make known thy Name and power to the ends of the earth, and let the heathen here, and fear, and bow to thy Righ<g ref="char:EOLhyphen"/>teous scepter; And let the Kings of the earth lay down their Crowns at the feet of the Lamb, that through thy righteous Judgments they may partake of thy tender mercies which endureth for ever; that their eys may be no longer withholden, nor blinded by the God of this world, (the power and prince of darkness) but that they might come to see thee, who art invisible and injoy the same precious Life, of pure unfeigned love, which abounds in the hearts of thy hidden ones; and receive thy peacable wisdome to be governed, and to govern therein; Then would they surely know, that we are thine and confesse to thy glo<g ref="char:EOLhyphen"/>rious
+<pb n="9" facs="tcp:204285:7"/>truth, and speake good of thy Name. And magnifie thy power, and no longer count the bloud of thy everlasting covenant wherewith we are sanctified) as an unholy thing.</p>
+            <p>But O thou righteous, holy, pure, eternal God, art unknown unto all them that sit in darkness, and dwell in the spirit of enmity, against thee and thy people, though thou art come near to judgment, accor<g ref="char:EOLhyphen"/>ding to the promise, <hi>Mal.</hi> 3.5. And thy way of life and salvation is hid from them, therefore they hate us without a cause, and thus evilly entreat us in the darkness of their minds, and in the ignorance and hardness of their hearts, for which my soul doth pitty them, and e<g ref="char:EOLhyphen"/>ven intreat thee for them, that if possible their eyes may be yet open<g ref="char:EOLhyphen"/>ed, and their hearts softned, and their spirit humbled, that they may see what they are doing in the dark, and consider the effect of their work, which will assuredly follow: and if thy warnings and gentle vi<g ref="char:EOLhyphen"/>sitations will not humble them, then let thy Judgements awaken them, and bring them down and humble them, that they may perceive some<g ref="char:EOLhyphen"/>thing of what thou art doing (in these latter daies) and art resolved to do to the ends of the earth, though the whole world should gather and band together to oppose thy work and people, for thou hast begun (and thou wilt go through and perfect) thy work, thou wilt raise thy seed, and gather thine Elect from the four winds, and bring them from the ends of the Earth, and scatter the proud in the vain imaginations of their hearts, and thou wilt break thy way through all that oppose thee in this the day of thy mighty power, in which thou art arisen (as a Giant to run his race) to finish transgression, and make an end of sin, and to bring in and establish everlasting righteousnes, that the King<g ref="char:EOLhyphen"/>doms of this world, may become thy Kingdoms, and of thy Christ, as thou hast promised, and art now fulfilling, glory, and honour, and thanks, and everlasting praises, be to thy glorious Name, world with<g ref="char:EOLhyphen"/>out end, <hi>Amen.</hi>
+            </p>
+            <p>So friends, ye are, and have been warned again and again by the faithful Messengers and servants of the Lord, in love to your souls, and you are left without excuse if never words more should be mentioned unto you, by which ye might perceive how the Lord doth strive with you, that ye might repent and be saved from the wrath to come, though some of you feel little of it in your own consciences: <hi>But his Spirit will not alwayes strive with you,</hi> for if you will not believe them, but sleight and reject them, and neither make conscience of what hath pro<g ref="char:EOLhyphen"/>ceeded out of your own mouth, nor regard to perform your own words
+<pb n="10" facs="tcp:204285:8"/>and publick engagements, in that which is just which the Lord requireth of you, nor remember his by past, and present mercies, and long suf<g ref="char:EOLhyphen"/>fering towards you, but trample all under foot: I say, if it be thus with you, and you are resolved to go on, you will wholly be given up, and be exceedingly hardened, and grow desperate in cruelty and op<g ref="char:EOLhyphen"/>pression against God, and his truth, and people, till your whole earth is filled with violence: And then (as true as God liveth) will the flood come upon you, and ye shall fall after the manner of <hi>Egypt,</hi> and the weight of the dreadful judgements due for all your abominations, and cruelties shall sink you down into the pit that's bottomless, and that suddenly as the Lord hath spoken</p>
+            <closer>
+               <dateline>Written in <date>the tenth month 64.</date> at <hi>Hertford.</hi>
+               </dateline>
+               <signed>
+                  <hi>By his servant, who is a lover of the welfare of all your souls, and I am thus far clear of all your blood.</hi> W.B.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <lg>
+               <l>The Sun is risen up, swiftly to run his race,</l>
+               <l>Therefore ye vapouring clouds divide,</l>
+               <l>And unto him give place;</l>
+               <l>For its his right to reign,</l>
+               <l>Who rules in righteousness,</l>
+               <l>Who now is come, in this his day</l>
+               <l>His Kingdom to possess.</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+         <trailer>The END.</trailer>
+      </body>
+   </text>
+</TEI>
